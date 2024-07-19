@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OP.2018\\Menjacnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8281E1-D87A-4CC6-B0E8-E7A984F4CCBC}|Menjacnica_domaci\\Menjacnica_domaci.csproj|d:\\op.2018\\menjacnica\\menjacnica_domaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8281E1-D87A-4CC6-B0E8-E7A984F4CCBC}|Menjacnica_domaci\\Menjacnica_domaci.csproj|solutionrelative:menjacnica_domaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OP.2018\\Menjacnica\\Menjacnica_domaci\\Program.cs",
+              "RelativeDocumentMoniker": "Menjacnica_domaci\\Program.cs",
+              "ToolTip": "D:\\OP.2018\\Menjacnica\\Menjacnica_domaci\\Program.cs",
+              "RelativeToolTip": "Menjacnica_domaci\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-23T22:31:29.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TITAN\\Desktop\\Menjacnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8281E1-D87A-4CC6-B0E8-E7A984F4CCBC}|Menjacnica\\Menjacnica.csproj|c:\\users\\titan\\desktop\\menjacnica\\menjacnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8281E1-D87A-4CC6-B0E8-E7A984F4CCBC}|Menjacnica\\Menjacnica.csproj|solutionrelative:menjacnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TITAN\\Desktop\\Menjacnica\\Menjacnica\\Program.cs",
+              "RelativeDocumentMoniker": "Menjacnica\\Program.cs",
+              "ToolTip": "C:\\Users\\TITAN\\Desktop\\Menjacnica\\Menjacnica\\Program.cs",
+              "RelativeToolTip": "Menjacnica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:59:50.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

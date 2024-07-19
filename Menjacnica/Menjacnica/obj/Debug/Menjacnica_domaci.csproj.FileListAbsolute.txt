@@ -1,0 +1,8 @@
+D:\OP.2018\Menjacnica_domaci\Menjacnica_domaci\bin\Debug\Menjacnica_domaci.exe.config
+D:\OP.2018\Menjacnica_domaci\Menjacnica_domaci\bin\Debug\Menjacnica_domaci.exe
+D:\OP.2018\Menjacnica_domaci\Menjacnica_domaci\bin\Debug\Menjacnica_domaci.pdb
+D:\OP.2018\Menjacnica_domaci\Menjacnica_domaci\obj\Debug\Menjacnica_domaci.csproj.CoreCompileInputs.cache
+D:\OP.2018\Menjacnica_domaci\Menjacnica_domaci\obj\Debug\Menjacnica_domaci.exe
+D:\OP.2018\Menjacnica_domaci\Menjacnica_domaci\obj\Debug\Menjacnica_domaci.pdb
+D:\OP.2018\Menjacnica_domaci\Menjacnica_domaci\obj\Debug\Menjacnica_domaci.csproj.AssemblyReference.cache
+D:\OP.2018\Menjacnica_domaci\Menjacnica_domaci\obj\Debug\Menjacnica_domaci.csproj.SuggestedBindingRedirects.cache
