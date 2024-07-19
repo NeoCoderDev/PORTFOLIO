@@ -1,0 +1,12 @@
+C:\Users\Titan\Desktop\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\bin\Debug\Pogadjanje_Brojeva.exe.config
+C:\Users\Titan\Desktop\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\bin\Debug\Pogadjanje_Brojeva.exe
+C:\Users\Titan\Desktop\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\bin\Debug\Pogadjanje_Brojeva.pdb
+C:\Users\Titan\Desktop\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\obj\Debug\Pogadjanje_Brojeva.csprojResolveAssemblyReference.cache
+C:\Users\Titan\Desktop\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\obj\Debug\Pogadjanje_Brojeva.exe
+C:\Users\Titan\Desktop\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\obj\Debug\Pogadjanje_Brojeva.pdb
+C:\Users\Titan\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\bin\Debug\Pogadjanje_Brojeva.exe.config
+C:\Users\Titan\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\obj\Debug\Pogadjanje_Brojeva.exe
+C:\Users\Titan\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\obj\Debug\Pogadjanje_Brojeva.pdb
+C:\Users\Titan\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\obj\Debug\Pogadjanje_Brojeva.csprojResolveAssemblyReference.cache
+C:\Users\Titan\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\bin\Debug\Pogadjanje_Brojeva.exe
+C:\Users\Titan\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Pogadjanje_Brojeva\Pogadjanje_Brojeva\bin\Debug\Pogadjanje_Brojeva.pdb
