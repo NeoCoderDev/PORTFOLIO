@@ -1,0 +1,13 @@
+C:\Users\TITAN\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Tablica_Mnozenja\Tablica_Mnozenja\bin\Debug\Tablica_Mnozenja.exe.config
+C:\Users\TITAN\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Tablica_Mnozenja\Tablica_Mnozenja\bin\Debug\Tablica_Mnozenja.exe
+C:\Users\TITAN\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Tablica_Mnozenja\Tablica_Mnozenja\bin\Debug\Tablica_Mnozenja.pdb
+C:\Users\TITAN\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Tablica_Mnozenja\Tablica_Mnozenja\obj\Debug\Tablica_Mnozenja.csprojResolveAssemblyReference.cache
+C:\Users\TITAN\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Tablica_Mnozenja\Tablica_Mnozenja\obj\Debug\Tablica_Mnozenja.exe
+C:\Users\TITAN\Desktop\OP.2018\Domaći_Zadatak_Nikola_Pejak\Tablica_Mnozenja\Tablica_Mnozenja\obj\Debug\Tablica_Mnozenja.pdb
+C:\Users\TITAN\Desktop\Tablica_Mnozenja\Tablica_Mnozenja\obj\Debug\Tablica_Mnozenja.csproj.AssemblyReference.cache
+C:\Users\TITAN\Desktop\Tablica_Mnozenja\Tablica_Mnozenja\obj\Debug\Tablica_Mnozenja.csproj.CoreCompileInputs.cache
+C:\Users\TITAN\Desktop\Tablica_Mnozenja\Tablica_Mnozenja\obj\Debug\Tablica_Mnozenja.exe
+C:\Users\TITAN\Desktop\Tablica_Mnozenja\Tablica_Mnozenja\bin\Debug\Tablica_Mnozenja.exe.config
+C:\Users\TITAN\Desktop\Tablica_Mnozenja\Tablica_Mnozenja\bin\Debug\Tablica_Mnozenja.exe
+C:\Users\TITAN\Desktop\Tablica_Mnozenja\Tablica_Mnozenja\bin\Debug\Tablica_Mnozenja.pdb
+C:\Users\TITAN\Desktop\Tablica_Mnozenja\Tablica_Mnozenja\obj\Debug\Tablica_Mnozenja.pdb
