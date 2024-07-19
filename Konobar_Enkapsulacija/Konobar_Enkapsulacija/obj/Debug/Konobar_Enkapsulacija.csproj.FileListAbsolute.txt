@@ -1,0 +1,7 @@
+C:\Users\TITAN\Desktop\Konobar_Enkapsulacija\Konobar_Enkapsulacija\bin\Debug\Domaci_Konobar_Enkapsulacija.exe.config
+C:\Users\TITAN\Desktop\Konobar_Enkapsulacija\Konobar_Enkapsulacija\bin\Debug\Domaci_Konobar_Enkapsulacija.exe
+C:\Users\TITAN\Desktop\Konobar_Enkapsulacija\Konobar_Enkapsulacija\bin\Debug\Domaci_Konobar_Enkapsulacija.pdb
+C:\Users\TITAN\Desktop\Konobar_Enkapsulacija\Konobar_Enkapsulacija\obj\Debug\Konobar_Enkapsulacija.csproj.AssemblyReference.cache
+C:\Users\TITAN\Desktop\Konobar_Enkapsulacija\Konobar_Enkapsulacija\obj\Debug\Konobar_Enkapsulacija.csproj.CoreCompileInputs.cache
+C:\Users\TITAN\Desktop\Konobar_Enkapsulacija\Konobar_Enkapsulacija\obj\Debug\Domaci_Konobar_Enkapsulacija.exe
+C:\Users\TITAN\Desktop\Konobar_Enkapsulacija\Konobar_Enkapsulacija\obj\Debug\Domaci_Konobar_Enkapsulacija.pdb

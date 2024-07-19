@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TITAN\\Desktop\\Domaci_Konobar_Enkapsulacija\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9B2F4C-F707-4B9B-98A9-F2CBC4EF38A4}|Domaci_Konobar_Enkapsulacija\\Domaci_Konobar_Enkapsulacija.csproj|c:\\users\\titan\\desktop\\domaci_konobar_enkapsulacija\\domaci_konobar_enkapsulacija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9B2F4C-F707-4B9B-98A9-F2CBC4EF38A4}|Domaci_Konobar_Enkapsulacija\\Domaci_Konobar_Enkapsulacija.csproj|solutionrelative:domaci_konobar_enkapsulacija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9B2F4C-F707-4B9B-98A9-F2CBC4EF38A4}|Domaci_Konobar_Enkapsulacija\\Domaci_Konobar_Enkapsulacija.csproj|c:\\users\\titan\\desktop\\domaci_konobar_enkapsulacija\\domaci_konobar_enkapsulacija\\osobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9B2F4C-F707-4B9B-98A9-F2CBC4EF38A4}|Domaci_Konobar_Enkapsulacija\\Domaci_Konobar_Enkapsulacija.csproj|solutionrelative:domaci_konobar_enkapsulacija\\osobe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Osobe.cs",
+              "DocumentMoniker": "C:\\Users\\TITAN\\Desktop\\Domaci_Konobar_Enkapsulacija\\Domaci_Konobar_Enkapsulacija\\Osobe.cs",
+              "RelativeDocumentMoniker": "Domaci_Konobar_Enkapsulacija\\Osobe.cs",
+              "ToolTip": "C:\\Users\\TITAN\\Desktop\\Domaci_Konobar_Enkapsulacija\\Domaci_Konobar_Enkapsulacija\\Osobe.cs",
+              "RelativeToolTip": "Domaci_Konobar_Enkapsulacija\\Osobe.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:37:05.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TITAN\\Desktop\\Domaci_Konobar_Enkapsulacija\\Domaci_Konobar_Enkapsulacija\\Program.cs",
+              "RelativeDocumentMoniker": "Domaci_Konobar_Enkapsulacija\\Program.cs",
+              "ToolTip": "C:\\Users\\TITAN\\Desktop\\Domaci_Konobar_Enkapsulacija\\Domaci_Konobar_Enkapsulacija\\Program.cs",
+              "RelativeToolTip": "Domaci_Konobar_Enkapsulacija\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:37:02.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
